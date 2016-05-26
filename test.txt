@@ -1,22 +1,4 @@
-hyeeee
-<<<<<<< HEAD
-<<<<<<< 4192190a103fd9a5dbeec84b08361d905856137b
-suhyun test in branc
-
-
-hyejin branch
-=======
-=======
-
->>>>>>> ver.3
-suhyun test in branch
-333
-333
-333
-333
-<<<<<<< HEAD
-333
->>>>>>> 3331
-=======
-333
->>>>>>> ver.3
+IDE setting
+test
+test
+test~~
